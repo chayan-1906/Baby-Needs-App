@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Baby Needs App</string>
+
+    <string name="txtAddItem">Add Item</string>
+    <string name="txt_enter_item">Enter Item</string>
+    <string name="hint_enter_item">Enter Item...</string>
+    <string name="hint_item_qty">Enter Quantity...</string>
+    <string name="hint_item_color">Enter Item Color...</string>
+    <string name="hint_item_size">Enter Item Size...</string>
+    <string name="btn_save">Save</string>
+    <string name="savingErrorToast">Empty fields not Allowed!!!</string>
+    <string name="savingSuccessful">Item saved successfully</string>
+    <string name="sure_text_delete">Do you want to delete?</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">Yes</string>
+    <string name="splash_text">Baby Needs App</string>
+    <string name="editItemTitle">Edit Item</string>
+    <string name="updateErrorToast">Empty fields not Allowed!!!</string>
+</resources>
